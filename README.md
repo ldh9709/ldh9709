@@ -9,7 +9,7 @@
 ### 프로젝트를 기획부터 배포까지 주도한 경험이 있습니다.
 
 - React + Spring Boot 기반의 팀 프로젝트에서 **백엔드 설계와 핵심 API 개발을 주도**했습니다.
-- 사용자 인증/인가, JPA 기반 DB 연동, CRUD 처리, 예외 처리, Swagger 문서화 등을 담당했습니다.
+- 사용자 인증/인가, JPA 기반 DB 연동, CRUD 처리, 예외 처리 등을 담당했습니다.
 - AWS EC2 서버에 Oracle DB, Spring Boot 백엔드, React 프론트엔드를 배포한 경험이 있습니다.
 ---
 <h3 align="left">✨ Tech Stack ✨</h3>
